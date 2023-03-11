@@ -9,7 +9,7 @@ import java.util.Set;
 @Entity
 @Data
 public class Book {
-
+//Book data
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
